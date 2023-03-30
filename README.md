@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/gifs/80s-retro-nft-iuXaJKoTb4GpGGXV9r"  />
+
 
 ###
 
