@@ -44,38 +44,6 @@
   <img src="https://img.shields.io/static/v1?message=AI%20Agent&color=blue&style=for-the-badge" height="35" alt="AI agent logo" />
 </a>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Modern AI Button</title>
-  <style>
-    .ai-button {
-      display: inline-block;
-      padding: 10px 20px;
-      font-size: 16px;
-      font-weight: bold;
-      color: #ffffff;
-      background-color: #4CAF50;
-      border: none;
-      border-radius: 25px;
-      text-align: center;
-      text-decoration: none;
-      transition: background-color 0.3s ease, box-shadow 0.3s ease;
-    }
-
-    .ai-button:hover {
-      background-color: #45a049;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
-  </style>
-</head>
-<body>
-
-<a href="https://gemini5-blond.vercel.app/" target="_blank" class="ai-button">
-  AI Agent
-</a>
 
 </body>
 </html>
