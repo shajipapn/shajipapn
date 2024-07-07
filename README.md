@@ -44,6 +44,10 @@
   <img src="https://img.shields.io/static/v1?message=AI%20Agent&color=blue&style=for-the-badge" height="35" alt="AI agent logo" />
 </a>
 
+<a href="https://gemini5-blond.vercel.app/" target="_blank" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; color: #fff; background-color: #4CAF50; border: none; border-radius: 25px; text-align: center; text-decoration: none; transition: background-color 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.backgroundColor='#45a049';this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)';" onmouseout="this.style.backgroundColor='#4CAF50';this.style.boxShadow='none';">
+  AI Agent
+</a>
+
 
 </body>
 </html>
