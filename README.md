@@ -40,6 +40,9 @@
   <img src="https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=003E54&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devpost logo" />
 </a>
 
+<a href="https://gemini5-blond.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=AI%20Agent&color=blue&style=for-the-badge" height="35" alt="AI agent logo" />
+</a>
 
 </div>
 
