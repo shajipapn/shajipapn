@@ -36,5 +36,10 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
 
+<a href="https://devpost.com/shajipapn?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Devpost&logo=devpost&label=&color=003E54&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="devpost logo" />
+</a>
+
+
 </div>
 
